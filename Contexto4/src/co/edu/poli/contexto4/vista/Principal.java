@@ -84,35 +84,35 @@ public class Principal {
 		// Registro
 		System.out.println(registro1);
 
-		/*
-		 * System.out.println(
-		 * "======================================================================");
-		 * System.out.
-		 * println("             REPORTE INTEGRAL DEL SISTEMA AEROESPACIAL                "
-		 * ); System.out.println(
-		 * "======================================================================\n");
-		 * System.out.println(">>> DATOS DE LA MISIÓN:"); System.out.println(mision1);
-		 * System.out.println(
-		 * "\n----------------------------------------------------------------------\n")
-		 * ; System.out.println(">>> DETALLE DEL REGISTRO MÉDICO:");
-		 * System.out.println(registro1); System.out.println(trajeCombate1);
-		 * System.out.println(
-		 * "\n----------------------------------------------------------------------\n")
-		 * ; System.out.println(">>> TRIPULACIÓN Y EQUIPAMIENTO:");
-		 * System.out.println(astronauta1); System.out.println(traje1);
-		 * System.out.println(traje1.calcularProtecion());
-		 * System.out.println(trajeCombate1.getCantidadDeArmas());
-		 * System.out.println(trajeCombate1.calcularProtecion()); System.out.println(
-		 * "\n----------------------------------------------------------------------\n")
-		 * ; System.out.println(">>> LOGÍSTICA Y RECURSOS:");
-		 * System.out.println(suministro1); System.out.println(combustible1);
-		 * System.out.println(
-		 * "\n----------------------------------------------------------------------\n")
-		 * ; System.out.println(">>> INFRAESTRUCTURA DE SALUD:");
-		 * System.out.println(doctor1); System.out.println(hospital1);
-		 * System.out.println(
-		 * "\n======================================================================");
-		 */
+		
+		  System.out.println(
+		  "======================================================================");
+		  System.out.
+		  println("             REPORTE INTEGRAL DEL SISTEMA AEROESPACIAL                "
+		  ); System.out.println(
+		  "======================================================================\n");
+		  System.out.println(">>> DATOS DE LA MISIÓN:"); System.out.println(mision1);
+		  System.out.println(
+		  "\n----------------------------------------------------------------------\n")
+		  ; System.out.println(">>> DETALLE DEL REGISTRO MÉDICO:");
+		  System.out.println(registro1); System.out.println(trajeCombate1);
+		  System.out.println(
+		  "\n----------------------------------------------------------------------\n")
+		 ; System.out.println(">>> TRIPULACIÓN Y EQUIPAMIENTO:");
+		  System.out.println(astronauta1); System.out.println(traje1);
+		  System.out.println(traje1.calcularProtecion());
+		  System.out.println(trajeCombate1.getCantidadDeArmas());
+		  System.out.println(trajeCombate1.calcularProtecion()); System.out.println(
+		  "\n----------------------------------------------------------------------\n")
+		  ; System.out.println(">>> LOGÍSTICA Y RECURSOS:");
+		  System.out.println(suministro1); System.out.println(combustible1);
+		  System.out.println(
+		  "\n----------------------------------------------------------------------\n")
+		  ; System.out.println(">>> INFRAESTRUCTURA DE SALUD:");
+		  System.out.println(doctor1); System.out.println(hospital1);
+		  System.out.println(
+		  "\n======================================================================");
+		 
 
 	}
 }
